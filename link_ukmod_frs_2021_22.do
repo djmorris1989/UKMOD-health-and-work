@@ -22,7 +22,7 @@ cd "C:\Users\cm1djm\Documents\UKMOD methods"
 global data "input\Family Resources Survey\2021-22\"
 global temp "input\"
 global output "output\"
-global ukmod "UKMOD-PUBLIC-B2025.03\"
+global ukmod "UKMOD\UKMOD-PUBLIC-B2025.03\"
 
 *************************************************************************
 **** 1. read in the adult data and job data files. Merge together and
